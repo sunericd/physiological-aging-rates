@@ -2,7 +2,8 @@
 
 If you find the code helpful for your own work or project, please use the following citation:
 
-#### CITATION
+Sun et al. "Predicting physiological aging rates from a range of quantitative traits using machine learning" (2021). Aging. In Press
+
 
 This repository contains the code associated with the paper "Predicting physiological aging rates from broad quantitative traits using machine learning" by LAST NAME, et al. The code is organized into several main Python scripts:
 - "AgeRatesTurnkey.py" which includes the main functions associated with processing the data, training machine learning models, and calculating physiological aging rates.
@@ -20,6 +21,9 @@ In addition to the scripts, this repository contains several Jupyter notebooks w
 - "heritability.ipynb" contains code for plotting a grouped barplot of heritability values; corresponds to supplementary figure
 - "gender_analysis.ipynb" contains code for boxplot of PAR by gender/sex; corresponds to supplementary figures
 - "binning.ipynb" has code for plotting age distributions for different binning strategies; corresponds to supplementary figures.
+- "participant_characteristics.ipynb" has code for computing basic statistics on the cohorts
+- "KDM_Biological_Age.ipynb" contains code for computing the Klemera-Doubal biological age and corrected biological age
+- "variability_analysis.ipynb" contains code for computing sensitivity and variability analyses for the predicted ages and feature selection procedure
 
 
 NOTE: Due to sensitive information in the data, we have not included any of the required data to run the code. Interested parties should request the data directly from the SardiNIA and InCHIANTI projects:
