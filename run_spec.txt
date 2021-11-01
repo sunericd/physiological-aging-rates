@@ -1,0 +1,2 @@
+results_dir	data_dir	data_file	bin_info	num_splits	model_name	feature_type
+./Results/various_models/test	./RawData	2013-12-18-Sardinia-CleanUp-Data-Wave1.tsv	5, 12, 77, 120, 13	100	elastic_net	sardinia
