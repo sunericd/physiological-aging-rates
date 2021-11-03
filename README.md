@@ -1,8 +1,8 @@
 # Predicting physiological aging rates from broad quantitative traits using machine learning
 
-If you find the code helpful for your own work or project, please use the following citation:
+## Citation:
 
-Sun et al. "Predicting physiological aging rates from a range of quantitative traits using machine learning" (2021). Aging. In Press
+**Sun ED, Qian Y, Oppong R, Butler TJ, Zhao J, Chen BH, Tanaka T, Kang J, Sidore C, Cucca F, Bandinelli S, Abecasis GR, Gorospe M, et al. Predicting physiological aging rates from a range of quantitative traits using machine learning. Aging (Albany NY). 2021; 13:23471-23516. https://doi.org/10.18632/aging.203660**
 
 
 This repository contains the code associated with the paper "Predicting physiological aging rates from broad quantitative traits using machine learning" by LAST NAME, et al. The code is organized into several main Python scripts:
